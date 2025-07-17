@@ -71,7 +71,6 @@ Each variable is simulated 1,000 times to capture demand uncertainty.
   - Probability of Reaching Target
   - Sold-Out Frequency
 
-📸 *Screenshot Tip:* Output table showing summary stats for each strategy
 
 ---
 
@@ -81,7 +80,8 @@ Each variable is simulated 1,000 times to capture demand uncertainty.
 - Evaluates profit under base, best, and worst-case booking conditions
 - Helps compare strategy robustness across market states
 
-📸 *Screenshot Tip:* Table or bar chart comparing scenarios ($150 vs. $200)
+<img width="422" height="382" alt="image" src="https://github.com/user-attachments/assets/40af4ef6-d147-4b21-8ff4-7a007e465d1f" />
+
 
 ---
 
@@ -89,7 +89,8 @@ Each variable is simulated 1,000 times to capture demand uncertainty.
 - Quantifies how input changes impact profit
 - Online bookings and cancellation rate show highest sensitivity
 
-📸 *Screenshot Tip:* Line chart or tornado chart showing variable impact
+<img width="640" height="191" alt="image" src="https://github.com/user-attachments/assets/193cf1bb-1964-48cd-aade-5ac3bdb2cb30" />
+
 
 ---
 
@@ -98,7 +99,8 @@ Each variable is simulated 1,000 times to capture demand uncertainty.
 - $200 rate shows broader upper tail and higher mean
 - $150 has tighter clustering but lower ceiling
 
-📸 *Screenshot Tip:* Histogram or box plot for profit distributions
+<img width="1075" height="873" alt="image" src="https://github.com/user-attachments/assets/7cbe1c00-84fc-433f-ab2b-f0261d540c24" />
+
 
 ---
 
@@ -106,7 +108,8 @@ Each variable is simulated 1,000 times to capture demand uncertainty.
 - Tracks stability of outputs across 1,000 runs
 - Confirms statistical reliability of results
 
-📸 *Screenshot Tip:* Convergence line chart for mean profit across iterations
+<img width="1267" height="733" alt="image" src="https://github.com/user-attachments/assets/bb79b396-1ffd-4957-8db3-59f0e4126d8b" />
+
 
 ---
 
